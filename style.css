@@ -1,1 +1,23 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Helvetica"
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+}
 
+h2 {
+  margin-top: lem;
+  padding-top: lem;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+a {
+  color: #e81c4f;
+}
